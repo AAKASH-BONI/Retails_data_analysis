@@ -1,4 +1,4 @@
-<img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/d81a51f3-2c41-41fe-8255-86928555e8f6" /># Retail Sales Analysis SQL Project
+# Retail Sales Analysis SQL Project
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*WsUrD3ndA1_a4wrQy3qsow.png)
 
